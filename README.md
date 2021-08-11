@@ -1,4 +1,4 @@
-# Jogo Space Shooter em JavaScript 🙃
+# Jogo Space Shooter em JavaScript
 
 Esse é projeto implementa um jogo Space Shooter simples em JavaScript
 
