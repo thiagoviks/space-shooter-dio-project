@@ -2,7 +2,7 @@
 
 Esse é projeto implementa um jogo Space Shooter simples em JavaScript
 
-![screenshot](screenshot.png?raw=true './img/screenshot')
+![screenshot](screenshot.png?raw=true 'screenshot')
 
 ### Referências:
 
